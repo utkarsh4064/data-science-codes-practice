@@ -5,6 +5,8 @@ content= json.loads(s)
 print(content)
 print(content['aman'])
 print(content['aman']['age'])
+for keys in content:
+    print(content[keys]['name'])
 
 d={"india":{"captain":"rohit sharma", "wicket-keeper":"rishabh pant",
             "coach":"ravi shahstri"}, "australia":{"captain": "pat cummins",
