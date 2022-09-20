@@ -1,0 +1,2 @@
+{"aman": {"name": "aman", "address": "12th street mumbai", "age": "23"},
+ "rajiv": {"name": "rajiv", "address": "17th park street gurgaon", "age": "22"}}
